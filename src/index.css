@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&family=Roboto&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Inconsolata";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root,
+body,
+html {
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+}

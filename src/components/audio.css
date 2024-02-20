@@ -1,0 +1,18 @@
+audio::-webkit-media-controls-panel {
+  background-color: #ffdfe6;
+}
+
+audio::-webkit-media-controls-volume-slider-container,
+audio::-webkit-media-controls-volume-slider,
+audio::-webkit-media-controls-volume-slider:hover,
+audio::-webkit-media-controls-mute-button,
+audio::-webkit-media-controls-mute-button:hover,
+audio::-webkit-media-controls-overlay-enclosure,
+audio::-webkit-media-controls-fullscreen-volume-slider,
+audio::-webkit-media-controls-fullscreen-volume-min-button,
+audio::-webkit-media-controls-fullscreen-volume-max-button,
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display {
+  display: none;
+  visibility: hidden;
+}
